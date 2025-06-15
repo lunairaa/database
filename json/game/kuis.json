@@ -1,0 +1,302 @@
+[
+  {
+    "soal": "Apa ibu kota dari Indonesia?",
+    "pilihan": ["Jakarta", "Bandung", "Surabaya", "Medan"],
+    "jawaban": "Jakarta",
+    "hint": "Terletak di Pulau Jawa dan pusat pemerintahan."
+  },
+  {
+    "soal": "Siapa penemu bola lampu pijar?",
+    "pilihan": ["Isaac Newton", "Thomas Edison", "Albert Einstein", "Nikola Tesla"],
+    "jawaban": "Thomas Edison",
+    "hint": "Dia juga dikenal sebagai pebisnis dan punya banyak paten."
+  },
+  {
+    "soal": "Berapa hasil dari 12 x 8?",
+    "pilihan": ["96", "108", "84", "112"],
+    "jawaban": "96",
+    "hint": "Kalikan belasan dengan angka genap di bawah 10."
+  },
+  {
+    "soal": "Apa nama planet terbesar di Tata Surya?",
+    "pilihan": ["Saturnus", "Mars", "Jupiter", "Neptunus"],
+    "jawaban": "Jupiter",
+    "hint": "Planet ini punya bintik merah besar dan banyak bulan."
+  },
+  {
+    "soal": "Siapa penulis novel 'Laskar Pelangi'?",
+    "pilihan": ["Andrea Hirata", "Tere Liye", "Habiburrahman El Shirazy", "Dee Lestari"],
+    "jawaban": "Andrea Hirata",
+    "hint": "Ia berasal dari Belitung dan kisahnya diangkat dari pengalaman nyata."
+  },
+  {
+    "soal": "Apa warna bendera negara Jepang?",
+    "pilihan": ["Merah dan Putih", "Merah dan Biru", "Putih dengan lingkaran merah", "Hijau dan Putih"],
+    "jawaban": "Putih dengan lingkaran merah",
+    "hint": "Bendera ini sering disebut Hinomaru."
+  },
+  {
+    "soal": "Berapa sisi yang dimiliki oleh segitiga?",
+    "pilihan": ["3", "4", "5", "6"],
+    "jawaban": "3",
+    "hint": "Nama bentuknya sudah mengandung angka tiga."
+  },
+  {
+    "soal": "Siapa tokoh fiksi dalam novel 'Harry Potter'?",
+    "pilihan": ["Frodo Baggins", "Harry Potter", "Katniss Everdeen", "Sherlock Holmes"],
+    "jawaban": "Harry Potter",
+    "hint": "Dia penyihir muda dengan kacamata bulat."
+  },
+  {
+    "soal": "Apa nama benua tempat Indonesia berada?",
+    "pilihan": ["Afrika", "Asia", "Eropa", "Amerika"],
+    "jawaban": "Asia",
+    "hint": "Benua terbesar dan terpadat penduduknya."
+  },
+  {
+    "soal": "Berapa jarak bumi ke matahari rata-rata?",
+    "pilihan": ["150 juta km", "300 juta km", "1 juta km", "50 juta km"],
+    "jawaban": "150 juta km",
+    "hint": "Sekitar 1 satuan astronomi (AU)."
+  },
+  {
+    "soal": "Siapa pelukis terkenal yang melukis Mona Lisa?",
+    "pilihan": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "jawaban": "Leonardo da Vinci",
+    "hint": "Dia juga seorang ilmuwan dan inventor dari Italia."
+  },
+  {
+    "soal": "Apa bahasa resmi di Brazil?",
+    "pilihan": ["Spanyol", "Portugis", "Inggris", "Prancis"],
+    "jawaban": "Portugis",
+    "hint": "Bahasa ini juga dipakai di Portugal."
+  },
+  {
+    "soal": "Apa satuan untuk mengukur suhu?",
+    "pilihan": ["Liter", "Kilogram", "Celsius", "Meter"],
+    "jawaban": "Celsius",
+    "hint": "Satuan yang biasa dipakai di Indonesia."
+  },
+  {
+    "soal": "Siapa yang menulis karya 'Romeo dan Juliet'?",
+    "pilihan": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "jawaban": "William Shakespeare",
+    "hint": "Dikenal sebagai dramawan Inggris legendaris."
+  },
+  {
+    "soal": "Apa ibu kota negara Australia?",
+    "pilihan": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "jawaban": "Canberra",
+    "hint": "Bukan kota terbesar, tapi pusat pemerintahan."
+  },
+  {
+    "soal": "Berapa jumlah huruf dalam alfabet bahasa Inggris?",
+    "pilihan": ["24", "25", "26", "27"],
+    "jawaban": "26",
+    "hint": "Setiap kata bahasa Inggris menggunakan ini."
+  },
+  {
+    "soal": "Apa nama gas yang kita hirup untuk bernafas?",
+    "pilihan": ["Karbon Dioksida", "Oksigen", "Nitrogen", "Hidrogen"],
+    "jawaban": "Oksigen",
+    "hint": "Gas ini penting untuk pembakaran dan kehidupan."
+  },
+  {
+    "soal": "Siapa yang menemukan teori gravitasi?",
+    "pilihan": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "jawaban": "Isaac Newton",
+    "hint": "Konon jatuhnya apel yang menginspirasi teori ini."
+  },
+  {
+    "soal": "Apa alat musik yang memiliki tuts dan dimainkan dengan tangan?",
+    "pilihan": ["Gitar", "Biola", "Piano", "Drum"],
+    "jawaban": "Piano",
+    "hint": "Sering dipakai di konser dan musik klasik."
+  },
+  {
+    "soal": "Apa warna langit pada siang hari cerah?",
+    "pilihan": ["Merah", "Biru", "Kuning", "Hijau"],
+    "jawaban": "Biru",
+    "hint": "Warna ini juga jadi simbol kedamaian."
+  },
+  {
+  "soal": "Apa nama hewan tercepat di darat?",
+  "pilihan": ["Cheetah", "Singa", "Kuda", "Elang"],
+  "jawaban": "Cheetah",
+  "hint": "Kecepatannya bisa mencapai 100 km/jam."
+},
+{
+  "soal": "Siapa yang menemukan teori relativitas?",
+  "pilihan": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Stephen Hawking"],
+  "jawaban": "Albert Einstein",
+  "hint": "Fisikawan dengan rambut putih ikonik."
+},
+{
+  "soal": "Apa nama pulau terbesar di dunia?",
+  "pilihan": ["Greenland", "Madagaskar", "Sumatera", "Borneo"],
+  "jawaban": "Greenland",
+  "hint": "Pulau es di sebelah utara Amerika."
+},
+{
+  "soal": "Berapa warna dasar bendera Italia?",
+  "pilihan": ["Merah, Putih, Hijau", "Merah, Biru, Putih", "Kuning, Merah, Hitam", "Hijau, Kuning, Merah"],
+  "jawaban": "Merah, Putih, Hijau",
+  "hint": "Tiga warna vertikal."
+},
+{
+  "soal": "Apa nama ibu kota Mesir?",
+  "pilihan": ["Kairo", "Alexandria", "Giza", "Luxor"],
+  "jawaban": "Kairo",
+  "hint": "Terkenal dengan piramida dan sungai Nil."
+},
+{
+  "soal": "Apa nama alat untuk mengukur suhu?",
+  "pilihan": ["Barometer", "Termometer", "Hidrometer", "Anemometer"],
+  "jawaban": "Termometer",
+  "hint": "Biasanya digunakan saat sakit."
+},
+{
+  "soal": "Siapa penulis buku 'The Hobbit'?",
+  "pilihan": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+  "jawaban": "J.R.R. Tolkien",
+  "hint": "Juga penulis 'Lord of the Rings'."
+},
+{
+  "soal": "Berapa jumlah benua di dunia?",
+  "pilihan": ["5", "6", "7", "8"],
+  "jawaban": "7",
+  "hint": "Termasuk Asia, Afrika, dan Amerika."
+},
+{
+  "soal": "Apa nama hewan yang dikenal sebagai 'Raja Hutan'?",
+  "pilihan": ["Singa", "Harimau", "Gajah", "Macan"],
+  "jawaban": "Singa",
+  "hint": "Berasal dari Afrika dan punya surai khas."
+},
+{
+  "soal": "Apa nama benua tempat negara Mesir berada?",
+  "pilihan": ["Asia", "Afrika", "Eropa", "Amerika"],
+  "jawaban": "Afrika",
+  "hint": "Benua dengan gurun Sahara."
+  },
+{
+  "soal": "Apa nama ibu kota negara Korea Selatan?",
+  "pilihan": ["Seoul", "Busan", "Incheon", "Daegu"],
+  "jawaban": "Seoul",
+  "hint": "Kota metropolitan dengan teknologi canggih."
+},
+{
+  "soal": "Berapa sisi yang dimiliki oleh segiempat?",
+  "pilihan": ["3", "4", "5", "6"],
+  "jawaban": "4",
+  "hint": "Sama dengan jumlah sudutnya."
+},
+{
+  "soal": "Siapa tokoh fiksi dalam cerita 'The Chronicles of Narnia'?",
+  "pilihan": ["Lucy Pevensie", "Harry Potter", "Frodo", "Katniss Everdeen"],
+  "jawaban": "Lucy Pevensie",
+  "hint": "Salah satu saudara Pevensie."
+},
+{
+  "soal": "Apa nama sistem peredaran darah pada manusia?",
+  "pilihan": ["Sistem saraf", "Sistem pernapasan", "Sistem kardiovaskular", "Sistem pencernaan"],
+  "jawaban": "Sistem kardiovaskular",
+  "hint": "Melibatkan jantung dan pembuluh darah."
+},
+{
+  "soal": "Apa nama alat musik tiup yang sering dipakai dalam jazz?",
+  "pilihan": ["Saxophone", "Gitar", "Drum", "Piano"],
+  "jawaban": "Saxophone",
+  "hint": "Berbentuk tabung dan punya suara khas."
+},
+{
+  "soal": "Siapa yang melukis karya 'Starry Night'?",
+  "pilihan": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Leonardo da Vinci"],
+  "jawaban": "Vincent van Gogh",
+  "hint": "Pelukis post-impresionis Belanda."
+},
+{
+  "soal": "Apa nama negara dengan menara Eiffel?",
+  "pilihan": ["Italia", "Prancis", "Jerman", "Spanyol"],
+  "jawaban": "Prancis",
+  "hint": "Negara romantis di Eropa Barat."
+},
+{
+  "soal": "Berapa jumlah pemain dalam satu tim sepak bola di lapangan?",
+  "pilihan": ["9", "10", "11", "12"],
+  "jawaban": "11",
+  "hint": "Termasuk penjaga gawang."
+},
+{
+  "soal": "Apa nama planet yang dikenal sebagai Planet Merah?",
+  "pilihan": ["Mars", "Venus", "Merkurius", "Jupiter"],
+  "jawaban": "Mars",
+  "hint": "Terlihat merah karena kandungan besi oksida."
+},
+{
+  "soal": "Apa nama alat untuk melihat benda kecil yang sangat kecil?",
+  "pilihan": ["Mikroskop", "Teleskop", "Kamera", "Teropong"],
+  "jawaban": "Mikroskop",
+  "hint": "Biasanya digunakan di laboratorium."
+},
+{
+  "soal": "Apa nama gunung tertinggi di dunia?",
+  "pilihan": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+  "jawaban": "Mount Everest",
+  "hint": "Terletak di Pegunungan Himalaya."
+},
+{
+  "soal": "Siapa penemu pesawat terbang pertama?",
+  "pilihan": ["Wright bersaudara", "Leonardo da Vinci", "Alexander Graham Bell", "Thomas Edison"],
+  "jawaban": "Wright bersaudara",
+  "hint": "Dua kakak beradik Amerika Serikat."
+},
+{
+  "soal": "Apa nama ibu kota negara Jepang?",
+  "pilihan": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+  "jawaban": "Tokyo",
+  "hint": "Kota metropolitan terbesar di Jepang."
+},
+{
+  "soal": "Berapa sisi pada bentuk segilima?",
+  "pilihan": ["4", "5", "6", "7"],
+  "jawaban": "5",
+  "hint": "Jumlah sisi dan sudutnya sama."
+},
+{
+  "soal": "Apa nama alat musik yang terdiri dari senar dan dipetik?",
+  "pilihan": ["Gitar", "Piano", "Drum", "Saxophone"],
+  "jawaban": "Gitar",
+  "hint": "Sering digunakan di musik rock dan pop."
+},
+{
+  "soal": "Siapa tokoh utama dalam film 'Star Wars'?",
+  "pilihan": ["Han Solo", "Luke Skywalker", "Darth Vader", "Yoda"],
+  "jawaban": "Luke Skywalker",
+  "hint": "Pahlawan muda dengan pedang cahaya."
+},
+{
+  "soal": "Apa warna bendera negara Italia?",
+  "pilihan": ["Merah, Putih, Hijau", "Merah, Kuning, Hitam", "Biru, Putih, Merah", "Hitam, Merah, Kuning"],
+  "jawaban": "Merah, Putih, Hijau",
+  "hint": "Tiga garis vertikal."
+},
+{
+  "soal": "Apa nama sungai yang melintasi kota London?",
+  "pilihan": ["Seine", "Thames", "Danube", "Volga"],
+  "jawaban": "Thames",
+  "hint": "Sungai ikonik di Inggris."
+},
+{
+  "soal": "Berapa jarak dari bumi ke bulan rata-rata?",
+  "pilihan": ["384.400 km", "150.000 km", "1.000.000 km", "50.000 km"],
+  "jawaban": "384.400 km",
+  "hint": "Sekitar 30 kali diameter bumi."
+},
+{
+  "soal": "Apa nama benua yang paling banyak penduduknya?",
+  "pilihan": ["Afrika", "Asia", "Eropa", "Amerika"],
+  "jawaban": "Asia",
+  "hint": "Negara terpadat ada di sini."
+}
+]
