@@ -1,0 +1,492 @@
+[
+  {
+    "soal": "Berapa hasil dari 9 + 6?",
+    "pilihan": ["14", "15", "16", "13"],
+    "jawaban": "15",
+    "hint": "Tambah sembilan dengan enam.",
+    "level": "easy"
+  },
+  {
+    "soal": "Jika 8 x 7 = ?",
+    "pilihan": ["54", "56", "58", "52"],
+    "jawaban": "56",
+    "hint": "Kalikan delapan dengan tujuh.",
+    "level": "easy"
+  },
+  {
+    "soal": "Pecahan 2/3 - 1/6 sama dengan?",
+    "pilihan": ["1/2", "1/3", "1/6", "2/3"],
+    "jawaban": "1/2",
+    "hint": "Samakan penyebut dulu.",
+    "level": "normal"
+  },
+  {
+    "soal": "Jika sebuah persegi memiliki panjang sisi 12 cm, berapakah luasnya?",
+    "pilihan": ["144 cm²", "124 cm²", "134 cm²", "154 cm²"],
+    "jawaban": "144 cm²",
+    "hint": "Luas = sisi x sisi.",
+    "level": "normal"
+  },
+  {
+    "soal": "Hitung hasil dari 5² + 12²",
+    "pilihan": ["169", "144", "144", "150"],
+    "jawaban": "169",
+    "hint": "Pangkatkan lalu jumlahkan.",
+    "level": "hard"
+  },
+  {
+    "soal": "Sebuah mobil bergerak dengan kecepatan 80 km/jam selama 3 jam. Berapa jarak yang ditempuh?",
+    "pilihan": ["240 km", "220 km", "260 km", "230 km"],
+    "jawaban": "240 km",
+    "hint": "Kalikan kecepatan dengan waktu.",
+    "level": "hard"
+  },
+  {
+    "soal": "Jika 3/4 dari sebuah kue dimakan, berapa sisa kue tersebut?",
+    "pilihan": ["1/4", "1/2", "1/3", "3/4"],
+    "jawaban": "1/4",
+    "hint": "Kurangi dari keseluruhan.",
+    "level": "normal"
+  },
+  {
+    "soal": "Berapa hasil dari 144 ÷ 12?",
+    "pilihan": ["11", "12", "13", "10"],
+    "jawaban": "12",
+    "hint": "Bagi seratus empat puluh empat dengan dua belas.",
+    "level": "normal"
+  },
+  {
+    "soal": "Jika x + 7 = 20, berapa nilai x?",
+    "pilihan": ["13", "12", "14", "15"],
+    "jawaban": "13",
+    "hint": "Kurangi 20 dengan 7.",
+    "level": "easy"
+  },
+  {
+    "soal": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Berapakah volume tabung tersebut? (π ≈ 22/7)",
+    "pilihan": ["1540 cm³", "1440 cm³", "1240 cm³", "1640 cm³"],
+    "jawaban": "1540 cm³",
+    "hint": "Volume tabung = π x r² x t.",
+    "level": "hard"
+  },
+{
+  "soal": "Hitung hasil dari 21 + 19?",
+  "pilihan": ["40", "39", "41", "42"],
+  "jawaban": "40",
+  "hint": "Jumlahkan dua puluh satu dan sembilan.",
+  "level": "easy"
+},
+{
+  "soal": "Jika 13 x 4 = ?",
+  "pilihan": ["52", "50", "54", "48"],
+  "jawaban": "52",
+  "hint": "Kalikan tiga belas dengan empat.",
+  "level": "easy"
+},
+{
+  "soal": "Pecahan 2/3 + 1/6 sama dengan?",
+  "pilihan": ["5/6", "3/4", "4/6", "2/3"],
+  "jawaban": "5/6",
+  "hint": "Samakan penyebut sebelum menjumlahkan.",
+  "level": "normal"
+},
+{
+  "soal": "Sebuah persegi panjang memiliki panjang 12 cm dan lebar 7 cm. Berapakah luasnya?",
+  "pilihan": ["84 cm²", "75 cm²", "80 cm²", "90 cm²"],
+  "jawaban": "84 cm²",
+  "hint": "Luas = panjang x lebar.",
+  "level": "normal"
+},
+{
+  "soal": "Hitung hasil dari 5⁴",
+  "pilihan": ["625", "620", "630", "600"],
+  "jawaban": "625",
+  "hint": "Pangkat empat dari lima.",
+  "level": "hard"
+},
+{
+  "soal": "Sebuah mobil bergerak 60 km/jam selama 6 jam. Berapa jarak yang ditempuh?",
+  "pilihan": ["360 km", "350 km", "370 km", "340 km"],
+  "jawaban": "360 km",
+  "hint": "Kalikan kecepatan dengan waktu.",
+  "level": "hard"
+},
+{
+  "soal": "Jika 4/9 dari pizza dimakan, berapa sisa pizza tersebut?",
+  "pilihan": ["5/9", "4/9", "1/2", "3/9"],
+  "jawaban": "5/9",
+  "hint": "Kurangi dari keseluruhan.",
+  "level": "normal"
+},
+{
+  "soal": "Berapa hasil dari 72 ÷ 8?",
+  "pilihan": ["9", "8", "10", "7"],
+  "jawaban": "9",
+  "hint": "Bagi tujuh puluh dua dengan delapan.",
+  "level": "normal"
+},
+{
+  "soal": "Jika x + 15 = 35, berapa nilai x?",
+  "pilihan": ["20", "19", "21", "18"],
+  "jawaban": "20",
+  "hint": "Kurangi tiga puluh lima dengan lima belas.",
+  "level": "easy"
+},
+{
+  "soal": "Sebuah tabung memiliki jari-jari 6 cm dan tinggi 9 cm. Berapakah volume tabung tersebut? (π ≈ 3.14)",
+  "pilihan": ["1017.36 cm³", "1000 cm³", "1020 cm³", "1010 cm³"],
+  "jawaban": "1017.36 cm³",
+  "hint": "Volume = π x r² x t.",
+  "level": "hard"
+},
+{
+  "soal": "Hitung hasil dari 18 + 24?",
+  "pilihan": ["42", "40", "43", "44"],
+  "jawaban": "42",
+  "hint": "Jumlahkan delapan belas dan dua puluh empat.",
+  "level": "easy"
+},
+{
+  "soal": "Jika 16 x 5 = ?",
+  "pilihan": ["80", "75", "85", "70"],
+  "jawaban": "80",
+  "hint": "Kalikan enam belas dengan lima.",
+  "level": "easy"
+},
+{
+  "soal": "Pecahan 5/6 - 1/3 sama dengan?",
+  "pilihan": ["1/2", "1/3", "1/4", "2/3"],
+  "jawaban": "1/2",
+  "hint": "Samakan penyebut sebelum mengurangkan.",
+  "level": "normal"
+},
+{
+  "soal": "Sebuah persegi memiliki sisi 11 cm. Berapakah luasnya?",
+  "pilihan": ["121 cm²", "110 cm²", "130 cm²", "111 cm²"],
+  "jawaban": "121 cm²",
+  "hint": "Luas = sisi x sisi.",
+  "level": "normal"
+},
+{
+  "soal": "Hitung hasil dari 6³",
+  "pilihan": ["216", "215", "210", "220"],
+  "jawaban": "216",
+  "hint": "Pangkat tiga dari enam.",
+  "level": "hard"
+},
+{
+  "soal": "Sebuah mobil bergerak 85 km/jam selama 3 jam. Berapa jarak yang ditempuh?",
+  "pilihan": ["255 km", "250 km", "260 km", "240 km"],
+  "jawaban": "255 km",
+  "hint": "Kalikan kecepatan dengan waktu.",
+  "level": "hard"
+},
+{
+  "soal": "Jika 7/10 dari kue dimakan, berapa sisa kue tersebut?",
+  "pilihan": ["3/10", "7/10", "1/10", "2/10"],
+  "jawaban": "3/10",
+  "hint": "Kurangi dari keseluruhan.",
+  "level": "normal"
+},
+{
+  "soal": "Berapa hasil dari 56 ÷ 7?",
+  "pilihan": ["8", "7", "9", "6"],
+  "jawaban": "8",
+  "hint": "Bagi lima puluh enam dengan tujuh.",
+  "level": "normal"
+},
+{
+  "soal": "Jika x - 8 = 12, berapa nilai x?",
+  "pilihan": ["20", "19", "21", "18"],
+  "jawaban": "20",
+  "hint": "Tambah dua belas dengan delapan.",
+  "level": "easy"
+},
+{
+  "soal": "Sebuah tabung memiliki jari-jari 3 cm dan tinggi 15 cm. Berapakah volume tabung tersebut? (π ≈ 3.14)",
+  "pilihan": ["424.2 cm³", "420 cm³", "430 cm³", "440 cm³"],
+  "jawaban": "424.2 cm³",
+  "hint": "Volume = π x r² x t.",
+  "level": "hard"
+},
+{
+  "soal": "Hitung hasil dari 33 + 47?",
+  "pilihan": ["80", "79", "81", "82"],
+  "jawaban": "80",
+  "hint": "Jumlahkan tiga puluh tiga dan empat puluh tujuh.",
+  "level": "easy"
+},
+{
+  "soal": "Jika 17 x 6 = ?",
+  "pilihan": ["102", "100", "98", "105"],
+  "jawaban": "102",
+  "hint": "Kalikan tujuh belas dengan enam.",
+  "level": "easy"
+},
+{
+  "soal": "Pecahan 7/8 - 1/4 sama dengan?",
+  "pilihan": ["5/8", "6/8", "3/8", "4/8"],
+  "jawaban": "5/8",
+  "hint": "Samakan penyebut sebelum mengurangkan.",
+  "level": "normal"
+},
+{
+  "soal": "Sebuah persegi panjang memiliki panjang 15 cm dan lebar 9 cm. Berapakah luasnya?",
+  "pilihan": ["135 cm²", "130 cm²", "140 cm²", "125 cm²"],
+  "jawaban": "135 cm²",
+  "hint": "Luas = panjang x lebar.",
+  "level": "normal"
+},
+{
+  "soal": "Hitung hasil dari 7³",
+  "pilihan": ["343", "340", "350", "345"],
+  "jawaban": "343",
+  "hint": "Pangkat tiga dari tujuh.",
+  "level": "hard"
+},
+{
+  "soal": "Sebuah mobil bergerak 90 km/jam selama 2 jam. Berapa jarak yang ditempuh?",
+  "pilihan": ["180 km", "170 km", "190 km", "200 km"],
+  "jawaban": "180 km",
+  "hint": "Kalikan kecepatan dengan waktu.",
+  "level": "hard"
+},
+{
+  "soal": "Jika 5/8 dari kue dimakan, berapa sisa kue tersebut?",
+  "pilihan": ["3/8", "5/8", "1/8", "2/8"],
+  "jawaban": "3/8",
+  "hint": "Kurangi dari keseluruhan.",
+  "level": "normal"
+},
+{
+  "soal": "Berapa hasil dari 81 ÷ 9?",
+  "pilihan": ["9", "8", "10", "7"],
+  "jawaban": "9",
+  "hint": "Bagi delapan puluh satu dengan sembilan.",
+  "level": "normal"
+},
+{
+  "soal": "Jika x + 13 = 25, berapa nilai x?",
+  "pilihan": ["12", "11", "13", "14"],
+  "jawaban": "12",
+  "hint": "Kurangi dua puluh lima dengan tiga belas.",
+  "level": "easy"
+},
+{
+  "soal": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 8 cm. Berapakah volume tabung tersebut? (π ≈ 3.14)",
+  "pilihan": ["1231.96 cm³", "1200 cm³", "1240 cm³", "1250 cm³"],
+  "jawaban": "1231.96 cm³",
+  "hint": "Volume = π x r² x t.",
+  "level": "hard"
+},
+{
+  "soal": "Doni memiliki 3 kotak pensil. Di setiap kotak ada 12 pensil. Jika Doni memberikan 7 pensil kepada temannya, berapa pensil yang masih dimiliki Doni?",
+  "pilihan": ["29", "30", "31", "32"],
+  "jawaban": "29",
+  "hint": "Hitung total pensil dulu, baru kurangi yang diberikan.",
+  "level": "normal"
+},
+{
+  "soal": "Sebuah kolam renang berbentuk persegi panjang memiliki panjang 20 meter dan lebar 10 meter. Berapa luas kolam renang tersebut?",
+  "pilihan": ["200 m²", "210 m²", "220 m²", "190 m²"],
+  "jawaban": "200 m²",
+  "hint": "Luas = panjang x lebar.",
+  "level": "normal"
+},
+{
+  "soal": "Rina membeli 4 buku seharga Rp25.000 setiap buku. Jika ia memberikan Rp150.000 kepada kasir, berapa uang kembalian yang ia dapatkan?",
+  "pilihan": ["Rp50.000", "Rp40.000", "Rp30.000", "Rp20.000"],
+  "jawaban": "Rp50.000",
+  "hint": "Hitung total harga buku dulu, baru kurangi dari uang yang diberikan.",
+  "level": "easy"
+},
+{
+  "soal": "Sebuah truk mengangkut 500 kg barang. Jika truk tersebut membongkar 125 kg di tempat A dan 175 kg di tempat B, berapa berat barang yang tersisa di truk?",
+  "pilihan": ["200 kg", "225 kg", "150 kg", "175 kg"],
+  "jawaban": "200 kg",
+  "hint": "Kurangi total berat yang dibongkar dari berat awal.",
+  "level": "normal"
+},
+{
+  "soal": "Sebuah taman berbentuk persegi panjang memiliki panjang 30 meter dan lebar 25 meter. Taman tersebut akan dipagari dengan pagar kelilingnya. Berapa panjang pagar yang dibutuhkan?",
+  "pilihan": ["110 m", "115 m", "105 m", "120 m"],
+  "jawaban": "110 m",
+  "hint": "Keliling persegi panjang = 2 x (panjang + lebar).",
+  "level": "normal"
+},
+{
+  "soal": "Andi menabung uang setiap hari sebesar Rp15.000 selama 20 hari. Berapa total uang yang ditabung Andi?",
+  "pilihan": ["Rp300.000", "Rp250.000", "Rp350.000", "Rp280.000"],
+  "jawaban": "Rp300.000",
+  "hint": "Kalikan jumlah hari dengan uang yang ditabung per hari.",
+  "level": "easy"
+},
+{
+  "soal": "Sebuah restoran membuat 150 porsi nasi bungkus. Jika setiap porsi membutuhkan 0,2 kg beras, berapa berat beras yang diperlukan untuk membuat semua nasi bungkus tersebut?",
+  "pilihan": ["30 kg", "25 kg", "35 kg", "28 kg"],
+  "jawaban": "30 kg",
+  "hint": "Kalikan jumlah porsi dengan berat beras per porsi.",
+  "level": "normal"
+},
+{
+  "soal": "Sebuah tangki air berisi 500 liter air. Setiap jam, air dalam tangki berkurang 30 liter karena digunakan. Berapa liter air yang tersisa setelah 12 jam?",
+  "pilihan": ["140 liter", "160 liter", "150 liter", "130 liter"],
+  "jawaban": "140 liter",
+  "hint": "Kurangi jumlah air yang digunakan dari air awal.",
+  "level": "hard"
+},
+{
+  "soal": "Sebuah pesawat terbang menempuh jarak 1200 km dalam 2 jam. Berapa kecepatan rata-rata pesawat tersebut dalam km/jam?",
+  "pilihan": ["600 km/jam", "580 km/jam", "620 km/jam", "590 km/jam"],
+  "jawaban": "600 km/jam",
+  "hint": "Kecepatan = jarak / waktu.",
+  "level": "normal"
+},
+{
+  "soal": "Seorang petani memanen 450 kg kentang. Ia ingin mengemas kentang tersebut dalam karung yang masing-masing dapat menampung 25 kg. Berapa karung yang dibutuhkan?",
+  "pilihan": ["18 karung", "17 karung", "19 karung", "20 karung"],
+  "jawaban": "18 karung",
+  "hint": "Bagi total kentang dengan kapasitas karung.",
+  "level": "normal"
+},
+{
+  "soal": "Ganjar Pranowo membeli 10 paket sembako, setiap paket berisi 5 kg beras dan 3 kg gula. Berapa total berat sembako yang dibeli Ganjar Pranowo?",
+  "pilihan": ["80 kg", "70 kg", "60 kg", "90 kg"],
+  "jawaban": "80 kg",
+  "hint": "Kalikan jumlah paket dengan berat total per paket.",
+  "level": "normal"
+},
+{
+  "soal": "Kang Emil menanam 40 pohon mangga di kebunnya. Setiap pohon menghasilkan 25 buah mangga. Setelah panen, 150 buah mangga rusak. Berapa buah mangga yang bisa dijual Kang Emil?",
+  "pilihan": ["850", "900", "800", "950"],
+  "jawaban": "850",
+  "hint": "Hitung total buah mangga dulu, lalu kurangi yang rusak.",
+  "level": "hard"
+},
+{
+  "soal": "Anies Baswedan memiliki dana pembangunan sebesar Rp2.500.000.000. Jika ia membagi dana tersebut ke 5 proyek pembangunan secara merata, berapa dana yang diterima tiap proyek?",
+  "pilihan": ["Rp500.000.000", "Rp400.000.000", "Rp600.000.000", "Rp550.000.000"],
+  "jawaban": "Rp500.000.000",
+  "hint": "Bagi total dana dengan jumlah proyek.",
+  "level": "hard"
+},
+{
+  "soal": "Sandiaga Uno membeli 12 dus air mineral. Setiap dus berisi 24 botol. Jika ia memberikan 100 botol kepada tetangga, berapa botol yang masih dimiliki Sandiaga?",
+  "pilihan": ["188", "190", "200", "180"],
+  "jawaban": "188",
+  "hint": "Hitung total botol, lalu kurangi yang diberikan.",
+  "level": "normal"
+},
+{
+  "soal": "Bang Prabowo memimpin rapat selama 5 jam. Setiap jam ia memberi jeda istirahat 15 menit. Berapa total waktu istirahat selama rapat tersebut?",
+  "pilihan": ["75 menit", "70 menit", "80 menit", "65 menit"],
+  "jawaban": "75 menit",
+  "hint": "Kalikan jumlah jam dengan durasi istirahat per jam.",
+  "level": "easy"
+},
+{
+  "soal": "Gibran membeli 20 kilogram buah rambutan dengan harga Rp30.000 per kilogram. Ia ingin menjualnya kembali dengan harga Rp35.000 per kilogram. Berapa keuntungan Gibran jika semua rambutan terjual habis?",
+  "pilihan": ["Rp100.000", "Rp150.000", "Rp120.000", "Rp200.000"],
+  "jawaban": "Rp100.000",
+  "hint": "Hitung selisih harga per kg dikali jumlah kilogram.",
+  "level": "hard"
+},
+{
+  "soal": "Kang Dedi Mulyadi memiliki kebun seluas 600 m². Ia ingin menanam pohon pisang dengan jarak tanam 3 m x 4 m. Berapa banyak pohon pisang yang dapat ditanam Kang Dedi?",
+  "pilihan": ["50 pohon", "48 pohon", "52 pohon", "55 pohon"],
+  "jawaban": "50 pohon",
+  "hint": "Hitung luas area per pohon dan bagi luas kebun.",
+  "level": "hard"
+},
+{
+  "soal": "Ridwan Kamil membeli 15 karung beras, tiap karung beratnya 25 kg. Jika ia menggunakan 200 kg beras untuk acara, berapa sisa beras yang masih ada?",
+  "pilihan": ["175 kg", "180 kg", "185 kg", "170 kg"],
+  "jawaban": "175 kg",
+  "hint": "Hitung total berat beras, lalu kurangi yang digunakan.",
+  "level": "normal"
+},
+{
+  "soal": "Pak Jokowi memimpin sebuah proyek pembangunan yang membutuhkan dana Rp5.000.000.000. Jika proyek selesai dalam 10 bulan, berapa dana rata-rata yang dibutuhkan per bulan?",
+  "pilihan": ["Rp500.000.000", "Rp450.000.000", "Rp550.000.000", "Rp600.000.000"],
+  "jawaban": "Rp500.000.000",
+  "hint": "Bagi total dana dengan jumlah bulan.",
+  "level": "hard"
+},
+{
+  "soal": "Sandiaga Uno membeli 60 kotak kopi. Setiap kotak berisi 20 sachet kopi. Jika ia memberikan 400 sachet kepada pelanggan, berapa sachet kopi yang tersisa?",
+  "pilihan": ["800", "900", "700", "850"],
+  "jawaban": "800",
+  "hint": "Hitung total sachet, lalu kurangi yang diberikan.",
+  "level": "normal"
+},
+{
+  "soal": "Pak Jokowi sedang merancang proyek bendungan baru. Dalam satu hari, 120 pekerja dapat menggali 360 meter kubik tanah. Jika proyek ditargetkan selesai menggali 10.800 meter kubik dalam 9 hari, berapa jumlah pekerja minimal yang dibutuhkan agar target tercapai tepat waktu?",
+  "pilihan": ["360 pekerja", "400 pekerja", "320 pekerja", "300 pekerja"],
+  "jawaban": "400 pekerja",
+  "hint": "Gunakan perbandingan terbalik: lebih banyak volume, lebih banyak pekerja.",
+  "level": "hard"
+},
+{
+  "soal": "Gibran menerima 1.200 porsi makanan untuk dibagikan ke 4 kecamatan di Solo. Setiap kecamatan menerima jumlah yang berbeda, dengan rasio 2:3:4:5. Berapa porsi yang diterima oleh kecamatan dengan rasio terbesar?",
+  "pilihan": ["400", "500", "450", "375"],
+  "jawaban": "400",
+  "hint": "Total rasio = 2+3+4+5, lalu cari nilai 5 bagian dari total 1.200.",
+  "level": "hard"
+},
+{
+  "soal": "Kang Emil sedang merancang taman dengan bentuk melingkar dan diameter 28 meter. Ia ingin memasang pagar keliling. Jika 1 meter pagar harganya Rp150.000, berapa total biaya yang dibutuhkan untuk seluruh keliling taman? (Gunakan π ≈ 3,14)",
+  "pilihan": ["Rp13.188.000", "Rp12.500.000", "Rp11.888.000", "Rp14.000.000"],
+  "jawaban": "Rp13.188.000",
+  "hint": "Keliling lingkaran = π x diameter, lalu kalikan harga per meter.",
+  "level": "hard"
+},
+{
+  "soal": "Bang Prabowo memiliki 5 kandang sapi. Masing-masing kandang memiliki jumlah sapi berbeda: 12, 15, 18, 21, dan 24 ekor. Ia ingin membagi seluruh sapi ke 3 peternakan dengan jumlah sama banyak. Apakah pembagian ini memungkinkan? Jika ya, berapa sapi per peternakan?",
+  "pilihan": ["Tidak mungkin", "30", "45", "60"],
+  "jawaban": "30",
+  "hint": "Jumlahkan total sapi lalu cek apakah bisa dibagi 3.",
+  "level": "hard"
+},
+{
+  "soal": "Pak Dedi Mulyadi sedang mengatur perjalanan distribusi buku dari Purwakarta ke 6 kota. Ia memiliki 3 truk, masing-masing dapat membawa 2 ton. Jika total buku seberat 28 ton dan ia ingin semua dikirim sekaligus dalam minimal jumlah perjalanan, berapa kali tiap truk harus bolak-balik?",
+  "pilihan": ["5", "4", "6", "7"],
+  "jawaban": "5",
+  "hint": "Total kapasitas sekali jalan = 3 x 2 ton, lalu bagi total tonase.",
+  "level": "hard"
+},
+{
+  "soal": "Ganjar Pranowo mengadakan pelatihan untuk UMKM di 4 wilayah. Wilayah A diikuti 120 orang, B diikuti 180, C diikuti 240, dan D diikuti 300 orang. Jika ingin membuat kelompok pelatihan dengan jumlah anggota yang sama tanpa sisa dari semua wilayah, berapa anggota maksimal per kelompok?",
+  "pilihan": ["60", "30", "120", "90"],
+  "jawaban": "60",
+  "hint": "Cari FPB dari 120, 180, 240, dan 300.",
+  "level": "hard"
+},
+{
+  "soal": "Anies Baswedan memiliki proyek renovasi 15 gedung sekolah. Biaya tiap gedung adalah Rp2,75 miliar. Jika dana yang tersedia hanya Rp35 miliar, berapa gedung maksimal yang bisa direnovasi?",
+  "pilihan": ["12", "13", "14", "11"],
+  "jawaban": "12",
+  "hint": "Bagi dana total dengan biaya per gedung.",
+  "level": "hard"
+},
+{
+  "soal": "Sandiaga Uno mengelola hotel dengan 120 kamar. 25% dari kamar tersebut adalah suite. Dari total suite, 40% sedang dalam pemeliharaan. Berapa kamar suite yang masih bisa disewakan?",
+  "pilihan": ["18", "22", "20", "24"],
+  "jawaban": "18",
+  "hint": "Hitung jumlah suite, lalu kurangi 40% dari jumlah tersebut.",
+  "level": "hard"
+},
+{
+  "soal": "Ridwan Kamil merancang acara untuk 800 peserta. Setiap peserta mendapat 2 buku catatan, 1 pulpen, dan 1 tas. Jika 10% peserta batal hadir, dan paket barang tetap dikirim sesuai kehadiran, berapa total buku, pulpen, dan tas yang disiapkan?",
+  "pilihan": ["1440 buku, 720 pulpen, 720 tas", "1600 buku, 800 pulpen, 800 tas", "1500 buku, 750 pulpen, 750 tas", "1440 buku, 800 pulpen, 800 tas"],
+  "jawaban": "1440 buku, 720 pulpen, 720 tas",
+  "hint": "Hitung 90% dari 800 peserta dulu.",
+  "level": "hard"
+},
+{
+  "soal": "Gibran ingin menyumbang makanan ke 4 panti asuhan. Panti A mendapat 20%, B 30%, C 25%, dan sisanya ke D. Jika total makanan 1.200 bungkus, berapa bungkus yang diterima oleh panti D?",
+  "pilihan": ["300", "250", "200", "150"],
+  "jawaban": "300",
+  "hint": "Jumlahkan persentase A, B, dan C lalu kurangi dari 100%.",
+  "level": "hard"
+}
+]
